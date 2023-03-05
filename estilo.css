@@ -1,0 +1,53 @@
+# CSS
+            .declaration { 
+                font-weight:bold;
+            }
+            
+            .quote {
+                font-style:italic;
+            }
+            .metal {
+                color: red;
+                
+            }
+            .non-metal {
+                color: blue;
+            }
+            .semi-metal {
+                color: purple;
+            }
+            h2.metal{
+                background-color:red;
+                color:white;
+            }
+            h2.non-metal{
+                background-color:blue;
+                color:white;
+            }
+            h2.semi-metal{
+                background-color:purple;
+                color:white;
+            }
+                        p,h1,h2 {
+                font-family: sans-serif;
+                color:white;
+            }
+            body{
+                background-color:black;
+            }
+            img {
+                max-width: 150px;
+            }
+            
+            h1,h2 {
+                font-family: fantasy;
+                border-bottom: 1px solid rgb(230, 230, 230);
+                padding: 3px;
+            }
+            
+            h1:hover,h2:hover {
+                background-color: red;
+                color:black;
+                
+            }
+  
